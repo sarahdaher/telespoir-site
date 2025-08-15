@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Maraudes",
+    "description": "Distribution de repas aux sans-abris dans Paris.",
+    "image": "../images/Mandat/Pôles/maraude.jpeg"
+  },
+  {
+    "title": "Épicerie solidaire",
+    "description": "Distribution de paniers alimentaire pour les etudiants precaires de l'IP Paris.",
+    "image": "../images/Mandat/Pôles/epicerie.jpeg"
+  }
+]
