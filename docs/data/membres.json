@@ -16,5 +16,5 @@
   { "prenom": "Adrien", "nom": "Bertrand", "poles": ["Informatique"], "photo": "images/Mandat/Individuel/Adrien.jpg" },
   { "prenom": "Blaise", "nom": "Huber", "poles": ["Mission"], "photo": "images/Mandat/Individuel/Blaise.jpg" },
   { "prenom": "Timothée", "nom": "Février", "poles": ["Mission"], "photo": "images/Mandat/Individuel/Tim.jpg" },
-  { "prenom": "Étienne", "nom": "Pélissier", "poles": ["Mission", "Événements"], "photo": "images/Mandat/Individuel/etienne.jpg" }
+  { "prenom": "Étienne", "nom": "Pélissier", "poles": ["Mission", "Événements"], "photo": "images/Mandat/Individuel/Etienne.jpg" }
 ]
