@@ -1,5 +1,5 @@
 [
-  { "prenom": "Héloïse", "nom": "Gouarné", "poles": ["Présidente", "Communication"], "photo": "images/Mandat/Individuel/Hélo.JPG" },
+  { "prenom": "Héloïse", "nom": "Gouarné", "poles": ["Présidente", "Communication"], "photo": "images/Mandat/Individuel/Helo.JPG" },
   { "prenom": "Mathilde", "nom": "Viellard", "poles": ["Vice-Présidente", "Maraudes"], "photo": "images/Mandat/Individuel/Mathilde.jpg" },
   { "prenom": "Adam", "nom": "Fayret-Hochart", "poles": ["Vice-Président Mission"], "photo": "images/Mandat/Individuel/Adam.JPG" },
   { "prenom": "Maëlys", "nom": "Viegas", "poles": ["Trésorière", "Événements"], "photo": "images/Mandat/Individuel/Mae.jpg" },
@@ -16,5 +16,5 @@
   { "prenom": "Adrien", "nom": "Bertrand", "poles": ["Informatique"], "photo": "images/Mandat/Individuel/Adrien.jpg" },
   { "prenom": "Blaise", "nom": "Huber", "poles": ["Mission"], "photo": "images/Mandat/Individuel/Blaise.jpg" },
   { "prenom": "Timothée", "nom": "Février", "poles": ["Mission"], "photo": "images/Mandat/Individuel/Tim.jpg" },
-  { "prenom": "Étienne", "nom": "Pélissier", "poles": ["Mission", "Événements"], "photo": "images/Mandat/Individuel/Étienne.jpg" }
+  { "prenom": "Étienne", "nom": "Pélissier", "poles": ["Mission", "Événements"], "photo": "images/Mandat/Individuel/etienne.jpg" }
 ]
