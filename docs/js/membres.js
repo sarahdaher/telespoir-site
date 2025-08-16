@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const container = document.getElementById('members-container');
 
-  fetch('../data/membres.json')
+  fetch('data/membres.json')
     .then(response => response.json())
     .then(members => {
 
