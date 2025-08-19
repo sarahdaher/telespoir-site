@@ -22,9 +22,9 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 15px 30px;
-  background-color: #5a4cbf;
+  background-color: #273070;
   color: white;
-  border-bottom: 1px solid #7a5dcc;
+  border-bottom: 1px solid #273070;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   flex-wrap: wrap;
 }
@@ -76,7 +76,7 @@ header nav .dropdown-content {
   top: 100%;
   left: 0;
   min-width: 180px;
-  background-color: #5a4cbf;
+  background-color: #273070;
   border-radius: 6px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
   z-index: 1000;
