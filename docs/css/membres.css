@@ -23,7 +23,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  height: 350px;
+  height: 390px;
 }
 
 .member-card:hover {
@@ -42,7 +42,7 @@
 
 .member-card h3 {
   font-size: 1.2rem;
-  color: #4c2c92;
+  color: #273070;
   margin: 8px 0 4px 0;
 }
 
