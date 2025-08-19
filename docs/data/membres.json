@@ -1,20 +1,20 @@
 [
   { "prenom": "Héloïse", "nom": "Gouarné", "poles": ["Présidente", "Communication"], "photo": "images/Mandat/Individuel/helo.jpg" },
   { "prenom": "Mathilde", "nom": "Viellard", "poles": ["Vice-Présidente", "Maraudes"], "photo": "images/Mandat/Individuel/Mathilde.jpg" },
-  { "prenom": "Adam", "nom": "Fayret-Hochart", "poles": ["Vice-Président Mission"], "photo": "images/Mandat/Individuel/Adam.JPG" },
+  { "prenom": "Adam", "nom": "Fayret-Hochart", "poles": ["Vice-Président Mission, Maraudes"], "photo": "images/Mandat/Individuel/Adam.JPG" },
   { "prenom": "Maëlys", "nom": "Viegas", "poles": ["Trésorière", "Événements"], "photo": "images/Mandat/Individuel/Mae.jpg" },
   { "prenom": "Naoures", "nom": "Abbassi", "poles": ["Secrétaire Générale", "Épicerie"], "photo": "images/Mandat/Individuel/Naoures.jpg" },
   { "prenom": "Molka", "nom": "Ouichka", "poles": ["Épicerie"], "photo": "images/Mandat/Individuel/Molka.jpg" },
   { "prenom": "Yahya", "nom": "Moustahsane", "poles": ["Mission"], "photo": "images/Mandat/Individuel/Yahya.jpg" },
-  { "prenom": "Lylia", "nom": "Mesa", "poles": ["Communication", "RE"], "photo": "images/Mandat/Individuel/Lylia.JPG" },
+  { "prenom": "Lylia", "nom": "Mesa", "poles": ["Communication", "RTE"], "photo": "images/Mandat/Individuel/Lylia.JPG" },
   { "prenom": "Charlotte", "nom": "Poupat", "poles": ["Maraudes", "Épicerie"], "photo": "images/Mandat/Individuel/Charlotte.JPG" },
   { "prenom": "Eya", "nom": "Mami", "poles": ["Événements"], "photo": "images/Mandat/Individuel/Eya.JPG" },
-  { "prenom": "Khalil", "nom": "Jerbi", "poles": ["RE"], "photo": "images/Mandat/Individuel/Khalil.JPG" },
-  { "prenom": "Maxime", "nom": "Saffon", "poles": ["Mission", "Maraudes"], "photo": "images/Mandat/Individuel/Maxime.jpg" },
+  { "prenom": "Khalil", "nom": "Jerbi", "poles": ["RTE"], "photo": "images/Mandat/Individuel/Khalil.JPG" },
+  { "prenom": "Maxime", "nom": "Saffon", "poles": ["Maraudes"], "photo": "images/Mandat/Individuel/Maxime.jpg" },
   { "prenom": "Sarah", "nom": "Daher", "poles": ["Épicerie", "Informatique"], "photo": "images/Mandat/Individuel/Sarah.jpg" },
-  { "prenom": "Jules", "nom": "De Rolland-Alexandre", "poles": ["Mission", "Maraudes"], "photo": "images/Mandat/Individuel/Jules.jpg" },
+  { "prenom": "Jules", "nom": "De Rolland-Alexandre", "poles": ["Mission", "Maraudes", "Événements"], "photo": "images/Mandat/Individuel/Jules.jpg" },
   { "prenom": "Adrien", "nom": "Bertrand", "poles": ["Informatique"], "photo": "images/Mandat/Individuel/Adrien.jpg" },
   { "prenom": "Blaise", "nom": "Huber", "poles": ["Mission"], "photo": "images/Mandat/Individuel/Blaise.jpg" },
   { "prenom": "Timothée", "nom": "Février", "poles": ["Mission"], "photo": "images/Mandat/Individuel/Tim.jpg" },
-  { "prenom": "Étienne", "nom": "Pélissier", "poles": ["Mission", "Événements"], "photo": "images/Mandat/Individuel/etienne.jpg" }
+  { "prenom": "Étienne", "nom": "Pélissier", "poles": ["Maraudes", "Événements"], "photo": "images/Mandat/Individuel/etienne.jpg" }
 ]
